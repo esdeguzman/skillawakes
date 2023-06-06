@@ -1,0 +1,19 @@
+.loading-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.loading-animation img {
+  width: 150px;
+  height: 150px;
+}
+
+.loading-message {
+  margin-top: 10px;
+  font-family: "Arial Rounded MT Bold", Impact, "Courier New", Courier,
+    monospace;
+  color: #00bfff;
+}
